@@ -8,7 +8,7 @@ Uses **SQLite** as the database for simplicity (no installation required).
 
 - **Create a food drive** (`POST /food-drives`)
 - **Fetch drives by city** (`GET /food-drives?city=<city>`)
-
+The API endpoints can be tested by visiting this URL : http://127.0.0.1:8000/docs
 ---
 
 ## Tech Stack
